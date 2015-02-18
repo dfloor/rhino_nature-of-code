@@ -1,0 +1,5 @@
+D:\data\code\rhino_nature-of-code\random-walk\random-walk\obj\Debug32\random-walk.csprojResolveAssemblyReference.cache
+D:\data\code\rhino_nature-of-code\random-walk\random-walk\bin\random-walk.dll
+D:\data\code\rhino_nature-of-code\random-walk\random-walk\bin\random-walk.pdb
+D:\data\code\rhino_nature-of-code\random-walk\random-walk\obj\Debug32\random-walk.dll
+D:\data\code\rhino_nature-of-code\random-walk\random-walk\obj\Debug32\random-walk.pdb
